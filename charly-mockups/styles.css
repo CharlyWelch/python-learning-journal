@@ -1,0 +1,30 @@
+body {
+    font-size: 10pt;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: black;
+    line-height: 14pt;  
+    padding-left: 5pt;
+    padding-right: 5pt;
+    padding-top: 5pt;
+  }
+  
+  
+  h1 {
+    font: 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 20pt;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  
+  
+  a:link, a:visited {
+    color: #2d3c6d;
+  }
+  
+  
+  a:hover, a:active {
+    color: rgb(230, 140, 51);
+  }
